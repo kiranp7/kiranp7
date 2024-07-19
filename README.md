@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnE0b3VwaXBwaDdzZDFvY3NmcmwxZnliN2RoNW9majRhbnQ0ZmNjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dmZ5uCRjcy0y4Brj2k/giphy.webp)]
+
 <h1 align="center">Hi 👋, I'm KIRAN</h1>
 <h3 align="center">Data Science Enthusiast | Recent Intern with Hands-On Experience in Data Analysis, Machine Learning and Deep Learning</h3>
 
